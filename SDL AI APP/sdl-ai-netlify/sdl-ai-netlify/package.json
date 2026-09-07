@@ -1,7 +1,0 @@
-{
-  "name": "sdl-ai",
-  "private": true,
-  "engines": {
-    "node": ">=18"
-  }
-}
